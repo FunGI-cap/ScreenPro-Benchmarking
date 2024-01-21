@@ -1,0 +1,21 @@
+name: crisprVerse
+channels:
+  - anaconda
+  - r
+  - bioconda
+  - conda-forge
+dependencies:
+  - bioconductor-genomicfeatures
+  - bioconductor-annotationdbi
+  - r-biocmanager
+  - r-irkernel
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - biopython
+  - r-tidyverse
+  - bioconductor-bsgenome.hsapiens.ucsc.hg38
+  - bioconductor-bsgenome.hsapiens.ucsc.hg19
+  - bioconductor-txdb.hsapiens.ucsc.hg19.knowngene
+  - bioconductor-txdb.hsapiens.ucsc.hg38.knowngene
