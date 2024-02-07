@@ -1,2 +1,3 @@
-.ipynb_checkpoints/
-rdata/
+**.ipynb_checkpoints/
+**rdata/
+**__pycache__/
