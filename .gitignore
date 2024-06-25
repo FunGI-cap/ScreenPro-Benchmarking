@@ -1,3 +1,14 @@
 **.ipynb_checkpoints/
 **rdata/
 **__pycache__/
+
+**fastq.gz
+**fastq
+**pkl
+**h5ad.gz
+**txt.gz
+**txt
+**xlsx
+**csv
+**fa.gz
+**arrow
