@@ -1,6 +1,6 @@
 **.ipynb_checkpoints/
-**rdata/
 **__pycache__/
+**.vscode/
 
 **fastq.gz
 **fastq
@@ -13,3 +13,4 @@
 **fa.gz
 **arrow
 **.DS_Store
+**.rds
